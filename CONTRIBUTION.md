@@ -8,3 +8,7 @@
 | Black Timber   | https://github.com/BlackTimber0 |
 | VIPER RAGHAV | https://github.com/viper-raghav |
 | Nikhar Kesari | https://github.com/nikharkesari |
+| Riya Saini |  https://github.com/RiyaSaini1108 |
+| Rodrigo Avendaño |  https://github.com/RodrigoAvendano |
+| Hritik Kumar | https://github.com/hritik-6918 |
+| A B VEEKSHITH | https://github.com/ABveekshith |
